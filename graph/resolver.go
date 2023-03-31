@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/lianacalabaide/fc-graphql/internal/database"
+import "github.com/liacalabaide/graphql/internal/database"
 
 // This file will not be regenerated automatically.
 //

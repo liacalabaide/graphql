@@ -1,4 +1,4 @@
-module github.com/lianacalabaide/fc-graphql
+module github.com/liacalabaide/graphql
 
 go 1.20
 

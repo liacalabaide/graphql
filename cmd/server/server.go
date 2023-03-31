@@ -2,14 +2,14 @@ package main
 
 import (
 	"database/sql"
-	"github.com/lianacalabaide/fc-graphql/internal/database"
+	"github.com/liacalabaide/graphql/internal/database"
 	"log"
 	"net/http"
 	"os"
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/lianacalabaide/fc-graphql/graph"
+	"github.com/liacalabaide/graphql/graph"
 	_ "github.com/mattn/go-sqlite3"
 )
 
