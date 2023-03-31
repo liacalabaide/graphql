@@ -52,7 +52,10 @@ autobind:
 models:
   Category:
     model:
-      - github.com/liacalabaide/graphql/model.Category
+      - github.com/liacalabaide/graphql/graph/model.Category
+  Course:
+    model:
+    - github.com/liacalabaide/graphql/graph/model.Course
   ID:
     model:
       - github.com/99designs/gqlgen/graphql.ID
